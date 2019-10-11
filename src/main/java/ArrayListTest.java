@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 
 public class ArrayListTest {
     public static void main(String[] args) {
@@ -35,5 +36,6 @@ public class ArrayListTest {
         list.clear();
 //        判断ArrayList是否为空
         System.out.println("ArrayList is empty: " + list.isEmpty());
+
     }
 }
